@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - KayitDepo
+  - ButtonA
+  - ButtonB
+  - ButtonC
+  - ButtonD
+  - JokerButton
+  - SoruButton
+  - ButtonKontrol
+  - SceneDegisimi
+  - SoruText
+  - CevapAText
+  - CevapBText
+  - CevapCText
+  - CevapDText
+  - ButtonKontrol2
+  - KayitDepo2
+  - SoruCanvas
+  - ImageTag
+  - JokerText
+  - ButtonKontrol3
+  - KayitDepo3
+  - KayitDepo4
+  - ButtonKontrol4
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - cam
+  - yuay
+  - yaprak
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

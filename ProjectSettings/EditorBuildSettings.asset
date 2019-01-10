@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2980837e92357ca4cbe8ac8b3432e980
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: ee95b5e6def16ec4f80b73dba4293cb4
+  - enabled: 1
+    path: Assets/Scenes/Soru1.unity
+    guid: 81035ba012fb7cc45a3b47a38b99a63b
+  - enabled: 1
+    path: Assets/Scenes/Soru2.unity
+    guid: e08fbe2fa4202774a983f92f51d948e1
+  - enabled: 1
+    path: Assets/Scenes/Soru3.unity
+    guid: 0d6ec78ecbbb87142899b8e6706773e5
+  - enabled: 1
+    path: Assets/Scenes/IlkSezonArasi.unity
+    guid: 33b8347327121534eae62d42a7500fc2
+  - enabled: 1
+    path: Assets/Scenes/Sezon2Soru1.unity
+    guid: 31716a1f3c3d35148b7fc96e6e3ad53f
+  - enabled: 1
+    path: Assets/Scenes/Sezon2Soru2.unity
+    guid: 91af599a6932c344caba9ab773058edf
+  - enabled: 1
+    path: Assets/Scenes/Sezon2Soru3.unity
+    guid: 9b0fdb42af9f3624ab87423ed94a840a
+  - enabled: 1
+    path: Assets/Scenes/SezonArasi2.unity
+    guid: 16acc15d599fa1644a7dde5f9879ab4a
+  - enabled: 1
+    path: Assets/Scenes/Sezon3Soru1.unity
+    guid: 3b88252cda8c7aa4083b8ddfa9b8d8d1
+  - enabled: 1
+    path: Assets/Scenes/Sezon3Soru2.unity
+    guid: cc87481c033dbfc41982a28152152519
+  - enabled: 1
+    path: Assets/Scenes/Sezon3Soru3.unity
+    guid: 7d3e79932e178814c924ad5d192d6f7a
+  - enabled: 1
+    path: Assets/Scenes/Sezon3Soru4.unity
+    guid: ecab69940c55cae4f85094df1e672ce8
+  - enabled: 1
+    path: Assets/Scenes/Sezon3Soru5.unity
+    guid: 587371f7e4b20af48bd0a82ede74769f
+  - enabled: 1
+    path: Assets/Scenes/SezonArasi3.unity
+    guid: e570ac9989e424445b1f4c8077f415c0
+  - enabled: 1
+    path: Assets/Scenes/Sezon4Soru1.unity
+    guid: 5fde1b7d64f9f214c84575c4dd7369d9
+  - enabled: 1
+    path: Assets/Scenes/Sezon4Soru2.unity
+    guid: b17682b9904990b4390f1ca9197e2302
+  - enabled: 1
+    path: Assets/Scenes/Sezon4Soru3.unity
+    guid: 20de054cd5616cc428093fcd380f3360
+  m_configObjects: {}
